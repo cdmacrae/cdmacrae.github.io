@@ -1,2 +1,2 @@
 # cdmacrae.github.io
-My GitHub website
+A website for C.D. MacRae
